@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Wir sind wieder Meister; und was für Einer:'
-datePublished: '2016-05-08T11:56:10.616Z'
-dateModified: '2016-05-08T11:55:46.076Z'
+datePublished: '2016-05-08T12:02:55.860Z'
+dateModified: '2016-05-08T11:56:14.478Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-08-zum-50-mal-osterreichischer-staatmeister.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-zum-50-mal-osterreichischer-staatmeister.md
 url: zum-50-mal-osterreichischer-staatmeister/index.html
 _type: Article
 
