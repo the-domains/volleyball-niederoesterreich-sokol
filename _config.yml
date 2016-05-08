@@ -1,0 +1,28 @@
+name: Volleyball Niederösterreich Sokol
+favicon: null
+layout_spectrum: 0.8833812843076885
+typography_spectrum: 0.5580151653848588
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.23393444623798132
+  lightness: 0.9564090331550688
+  saturation: 0.058042317163199186
+  rhythmicContrast: 0.5291509504895657
+purpose: []
